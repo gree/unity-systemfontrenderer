@@ -1,0 +1,7 @@
+Assets/Plugins
+Assets/Plugins.meta
+Assets/Resources
+Assets/Resources.meta
+!Assets/Plugins/Android/AndroidManifest.xml
+!Assets/Plugins/Android/AndroidManifest.xml.meta
+Library
